@@ -1,3 +1,3 @@
 # The-Argo
-Expedition &amp; Journey 
-As my initial repository for learning computer science, this place records my learning path.
+项目学习记录仓库
+1.神经网络的结构
